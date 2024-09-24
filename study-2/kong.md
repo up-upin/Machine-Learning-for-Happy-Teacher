@@ -1,1 +1,3 @@
+# Machine-Learning-for-Happy-Teacher
+These codes use six machine learning algorithms to analyze the influencing factors of detecting happy teachers. In particular, it introduces the feature importance of predicting high, medium, and low happiness teachers using SHAP values in the LightGBM algorithm, and reveals the impact direction of each factor at different levels. Red represents positive impact, blue represents negative impact. Using different datasets to compare horizontally and vertically, identify the influencing factors of happy teachers.
 
